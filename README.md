@@ -3,7 +3,7 @@
 Eu sou a gaby
 
 - Sou estudante do [Alura](https://www.alura.com.br)
-- Estopu me desenvolvendo na linguagem Javascrip
+- Estou me desenvolvendo na linguagem Javascrip
 - Essa organinazação vai ser para armazenar meus projetos desenvolvidos
 
   ### você entrar em contato comigo
